@@ -3,7 +3,7 @@
 • Practicing useState, Spread operator, destructuring, map ✅
 
 ## Screenshots 📱
-<img src="src/images/form2.jpg.jpg" width="350">
+<img src="src/images/form2.jpg" width="350">
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
